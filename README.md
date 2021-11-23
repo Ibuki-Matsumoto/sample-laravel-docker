@@ -2,9 +2,13 @@
 
 ## 構成
 php 8.0
+
 nginx
+
 mysql 8.0
+
 node 16系
+
 npm 7系
 
 ## クローンしたら
